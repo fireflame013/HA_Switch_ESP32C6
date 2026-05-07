@@ -6,3 +6,8 @@ build/
 *.bin
 sdkconfig.old
 
+managed_components/
+sdkconfig.ci*
+*.png
+*.jpg
+
